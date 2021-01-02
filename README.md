@@ -13,4 +13,10 @@ Heavy Destroyer
 Light Destroyer
 ![Light Destroyer](https://github.com/Corvu-s/Lego-Digital-Designer-Models/blob/main/Renders/MCRN_FClass_Destroyer.png)
 
+### Frigates
+![Light Frigate](https://github.com/Corvu-s/Lego-Digital-Designer-Models/blob/main/Renders/MCRN_Corvette.png)
+
+### Battleships
+
+![Endurance Class](https://github.com/Corvu-s/Lego-Digital-Designer-Models/blob/main/Renders/Endurance%20Class%20Battleship.png)
 
